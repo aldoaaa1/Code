@@ -1,0 +1,15 @@
+HTML
+Con mis propias palabras: Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore optio fugit reprehenderit, placeat nisi, similique tempore nihil, aliquam aspernatur ipsam deserunt a quod exercitationem laborum cupiditate eaque? Ut alias quis dolorum? Veniam id reiciendis fugiat illum maiores ex, laboriosam, voluptatibus voluptate temporibus expedita, fuga autem. Perspiciatis quo ex alias mollitia.
+Enlace Documentacion: https://www.w3schools.com/html/
+
+CSS
+Con mis propias palabras: Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore optio fugit reprehenderit, placeat nisi, similique tempore nihil, aliquam aspernatur ipsam deserunt a quod exercitationem laborum cupiditate eaque? Ut alias quis dolorum? Veniam id reiciendis fugiat illum maiores ex, laboriosam, voluptatibus voluptate temporibus expedita, fuga autem. Perspiciatis quo ex alias mollitia.
+Enlace Documentacion: https://www.w3schools.com/css/default.asp
+
+PHP
+Con mis propias palabras: Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore optio fugit reprehenderit, placeat nisi, similique tempore nihil, aliquam aspernatur ipsam deserunt a quod exercitationem laborum cupiditate eaque? Ut alias quis dolorum? Veniam id reiciendis fugiat illum maiores ex, laboriosam, voluptatibus voluptate temporibus expedita, fuga autem. Perspiciatis quo ex alias mollitia.
+Enlace Documentacion: https://www.w3schools.com/php/default.asp
+
+Javascript
+Con mis propias palabras: Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore optio fugit reprehenderit, placeat nisi, similique tempore nihil, aliquam aspernatur ipsam deserunt a quod exercitationem laborum cupiditate eaque? Ut alias quis dolorum? Veniam id reiciendis fugiat illum maiores ex, laboriosam, voluptatibus voluptate temporibus expedita, fuga autem. Perspiciatis quo ex alias mollitia.
+Enlace Documentacion: https://www.w3schools.com/js/default.asp
