@@ -1,0 +1,16 @@
+HTML
+-Es un lenguaje de marcado.
+Con mis propias palabras:
+Es un lenguaje que define nomasnada mas que elemento tiene un a pagina web no da mas info.
+Enlace Documentacion:https://www.w3schools.com/html/
+CSS
+Con mis propias palabras:
+Es un lenguaje que da la inforamcion o las caracteristicas sobre los elemento que ya excisten 
+Enlace Documentacion:https://www.w3schools.com/css/default.asp
+PHP
+Es un lnnguaje que tiene logica, sumas, restas, instrucciones, se opera en el servidor
+Enlace Documentacion:https://www.w3schools.com/php/default.asp
+Javascript
+con mis palabras:
+Es un lenguaje que se opera en el dispositivo del usuario
+Enlace Documentacion:https://www.w3schools.com/js/default.asp
