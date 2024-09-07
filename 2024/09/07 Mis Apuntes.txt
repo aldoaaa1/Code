@@ -1,0 +1,23 @@
+HTML 
+Es un lenguaje de marcado.
+Con mis propias palabras: 
+Es la base de lenguaje Web que necesitaremos darle diseno, estructura y que vaya de la mano con la creatividad de como podemos darle vida a la imagen o idea del Usuario.
+Enlace Documentacion: https://www.w3schools.com/html/default.asp
+
+CSS
+Es como se ven estos elementos y como se comportan con las interacciones basicas del usuario.
+Con mis propias palabras:
+
+Enlace Documentacion: https://www.w3schools.com/css/default.asp
+
+PHP
+Es un lenguaje de programacion, contiene condicionales, tiene operaciones, contiene tipos de datosl, es el lenguaje del servidor, se ejecuta en el servidor, por lo tanto tiene acceso a todos los datos del servidor, aun asi, el cliente no puede ver el codigo fuente, solo el resultado.
+Con mis propias palabras
+
+Enlace Documentacion: https://www.w3schools.com/php/default.asp
+
+Javascript
+Similar a PHP, pero Javascript se ejecuta en el dispositivo del usuario, la contra parte es que los datos de javascript no pueden ser usuados para php y viceversa
+Con mis propias palabras:
+
+Enlace Documentacion: https://www.w3schools.com/js/default.asp
